@@ -9,7 +9,7 @@ description = "Generic SysML v2 API helpers from MBSE4U"
 authors = [
   { name="Tim Weilkiens" },
 ]
-readme = "README.md"
+readme = {file = "README.md", content-type = "text/markdown"} # Explicitly set type
 requires-python = ">=3.8"
 dependencies = [
   "requests",
