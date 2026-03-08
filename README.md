@@ -6,14 +6,8 @@ Generic helper functions for interacting with SysML v2 REST API. This library si
 
 You can install this package via pip.
 
-### From Source
 ```bash
-pip install .
-```
-
-### Editable Mode (Development)
-```bash
-pip install -e .
+pip install mbse4u-sysmlv2-helpers
 ```
 
 ## Getting Started
@@ -95,3 +89,4 @@ except Exception as e:
 ## License
 
 Copyright 2026 MBSE4U - Tim Weilkiens. Licensed under the Apache License, Version 2.0.
+
